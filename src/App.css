@@ -1,0 +1,48 @@
+.App{
+    background-color: rgb(201, 183, 139);
+}
+
+.Sidebar{
+    background-color: rgb(49, 47, 47);
+    color: white;
+    font-size:xx-large;
+    height:2500px;
+    width: 300px;
+}
+
+.li{
+    color: black;
+}
+
+.Users{
+    margin-right: 70ch;
+    float: right;
+    text-align: center;
+  }
+
+.Home{
+    
+    margin-top: 20ch;
+    margin-right: 50ch;
+    float: right;
+    text-align: center;
+  }
+
+.Posts{
+    margin-right: 20ch;
+    float: right;
+    text-align: left;
+  }
+
+.PostShow{
+    margin-right: 40ch;
+    float: right;
+    text-align: left;
+  }
+
+.CommentShow{
+    margin-left: 50ch;
+    padding: 10ch;
+    float: right;
+    text-align: left;
+}
